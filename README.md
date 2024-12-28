@@ -7,8 +7,8 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/58821e01-b1be-4d61-831e-79636028f362" width="200" />
   <img src="https://github.com/user-attachments/assets/d51ba4f5-8ae8-4ea6-b726-eb006ea5eb93" width="200" />
+    <img src="https://github.com/user-attachments/assets/22d86ea1-b9a9-4020-89c2-b0173c3d5cb7" width="200" />
   <img src="https://github.com/user-attachments/assets/56ed7581-a598-4cb2-b811-3f4326a5ef55" width="200" />
-  <img src="https://github.com/user-attachments/assets/22d86ea1-b9a9-4020-89c2-b0173c3d5cb7" width="200" />
 </div>
 
 <h3 align="center">Connect with me:</h3>
