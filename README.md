@@ -5,10 +5,10 @@
 <h2 align="center">My Projects</h2>
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://apps.apple.com/tr/app/astro-apod/id6738841787?l=tr"><img src="https://github.com/user-attachments/assets/58821e01-b1be-4d61-831e-79636028f362" width="200" /></a>
-  <a href="https://github.com/bayramyelecc/E-Commerce-MVVM-Programmatic"><img src="https://github.com/user-attachments/assets/d51ba4f5-8ae8-4ea6-b726-eb006ea5eb93" width="200" /></a>
-  <a href="https://apps.apple.com/tr/app/quickpdf-fast-scanner/id6739751430?l=tr"><img src="https://github.com/user-attachments/assets/22d86ea1-b9a9-4020-89c2-b0173c3d5cb7" width="200" /></a>
-  <a href="https://apps.apple.com/tr/app/write-of-speech/id6739422907?l=tr"><img src="https://github.com/user-attachments/assets/56ed7581-a598-4cb2-b811-3f4326a5ef55" width="200" /></a>
+  <a href="https://apps.apple.com/tr/app/astro-apod/id6738841787?l=tr"><img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.14.25.png" width="200" /></a>
+  <a href="https://github.com/bayramyelecc/E-Commerce-MVVM-Programmatic"><img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.21.57.png" width="200" /></a>
+  <a href="https://apps.apple.com/tr/app/quickpdf-fast-scanner/id6739751430?l=tr"><img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.22.16.png" width="200" /></a>
+  <a href="https://apps.apple.com/tr/app/write-of-speech/id6739422907?l=tr"><img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.16.09.png" width="200" /></a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
