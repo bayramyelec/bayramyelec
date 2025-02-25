@@ -17,7 +17,7 @@
 ![Bayramyelec's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayramyelec&show_icons=true&theme=radical)
 
 ## Connect with me:
-<a href="https://twitter.com/bayramyelec0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bayramyelec0" height="30" width="40" /></a>
+<a href="https://twitter.com/bayramyelecc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bayramyelec0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bayramyelec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bayramyelec" height="30" width="40" /></a>
 <a href="https://instagram.com/bayramyelecc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bayramyelecc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bayrop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bayrop" height="30" width="40" /></a>
