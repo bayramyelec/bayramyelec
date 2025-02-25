@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bayram!
+# Hi 👋, I'm Bayram!
 
 ### I'm an iOS developer. I develop user-friendly applications for iOS.
 
