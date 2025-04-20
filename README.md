@@ -26,3 +26,6 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
+   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="swift" width="40" height="40"/> 
+  </a> 
