@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bayram!
 
-### I'm an 
+### I'm a 
 Mobile developer. I develop user-friendly applications for iOS.
 
 ## My Projects</h2>
