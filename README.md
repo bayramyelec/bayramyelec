@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bayram!
 
 ### I'm a 
-Mobile developer. I develop user-friendly applications for iOS.
+Mobile developer. I develop user-friendly applications for iOS & Android.
 
 ## My Projects</h2>
 
