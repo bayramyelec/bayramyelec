@@ -6,12 +6,35 @@
 
 ### My Projects
 
-<div>
-  <a href="https://apps.apple.com/tr/app/mockify-phone-mockup/id6747308381?l=tr"><img src="https://github.com/user-attachments/assets/41b9e65c-7774-4ce6-aadb-d0e82d4cad53" width="200" /></a>
-  <a href="https://apps.apple.com/tr/app/healthylife-kalori-sayac%C4%B1/id6740434956?l=tr"><img src="https://github.com/bayramyelec/bayramyelec/blob/232931ab6eb400908686d2dc27ae9138af1d84ea/Ekran%20Resmi%202025-01-19%2018.58.21.png" width="200" /></a>
-  <a href="https://apps.apple.com/tr/app/astro-apod/id6738841787?l=tr"><img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.14.25.png" width="200" /></a>
-  <a href="https://github.com/bayramyelecc/E-Commerce-MVVM-Programmatic"><img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.21.57.png" width="200" /></a>
-</div>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none; padding: 8px;">
+      <strong>Mockify</strong><br>
+      <a href="https://apps.apple.com/tr/app/mockify-phone-mockup/id6747308381?l=tr">
+        <img src="https://github.com/user-attachments/assets/41b9e65c-7774-4ce6-aadb-d0e82d4cad53" width="200" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <strong>HealthyLife</strong><br>
+      <a href="https://apps.apple.com/tr/app/healthylife-kalori-sayac%C4%B1/id6740434956?l=tr">
+        <img src="https://github.com/bayramyelec/bayramyelec/blob/232931ab6eb400908686d2dc27ae9138af1d84ea/Ekran%20Resmi%202025-01-19%2018.58.21.png" width="200" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <strong>Astro APOD</strong><br>
+      <a href="https://apps.apple.com/tr/app/astro-apod/id6738841787?l=tr">
+        <img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.14.25.png" width="200" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <strong>E-Commerce App</strong><br>
+      <a href="https://github.com/bayramyelecc/E-Commerce-MVVM-Programmatic">
+        <img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.21.57.png" width="200" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ### Connect with me & Languages
 
