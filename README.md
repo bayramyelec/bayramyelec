@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi 👋, I'm Bayram!
+# Hi 👋, I'm Bayram!
 
 ### I'm a Mobile developer. I develop user-friendly applications for iOS & Android.
 
