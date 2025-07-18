@@ -3,8 +3,6 @@
 # Hi 👋, I'm Bayram!
 ### I'm a Mobile developer. I develop user-friendly applications for iOS & Android.
 
----
-
 ### 🧑‍💻 My Projects
 
 <p align="center">
@@ -21,8 +19,6 @@
     <img src="https://github.com/bayramyelecc/bayramyelecc/blob/c956cb09266f8b7d8684766983641ecf059aab8a/Ekran%20Resmi%202024-12-28%2014.21.57.png" width="200" />
   </a>
 </p>
-
----
 
 <table>
   <tr>
