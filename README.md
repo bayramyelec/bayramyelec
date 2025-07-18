@@ -6,12 +6,13 @@
 
 ### My Projects
 
+
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none; padding: 8px;">
       <strong>Mockify</strong><br>
       <a href="https://apps.apple.com/tr/app/mockify-phone-mockup/id6747308381?l=tr">
-        <img src="https://github.com/user-attachments/assets/41b9e65c-7774-4ce6-aadb-d0e82d4cad53" width="200" />
+        <img src="https://github.com/user-attachments/assets/9628ca65-8b71-4f34-8ea0-c71d7447ad9d" width="200" />
       </a>
     </td>
     <td align="center" style="border: none; padding: 8px;">
