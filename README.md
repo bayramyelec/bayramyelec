@@ -24,30 +24,33 @@
 
 ---
 
-### 🔗 Connect with me
-
-<a href="https://twitter.com/bayramyelecc" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/bayramyelec" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://instagram.com/bayramyelecc" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/bayrop" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
-</a>
-
----
-
-### 💻 Languages & Tools
-
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-</a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <h3>🔗 Connect with me</h3>
+      <a href="https://twitter.com/bayramyelecc" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+      </a>
+      <a href="https://linkedin.com/in/bayramyelec" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+      </a>
+      <a href="https://instagram.com/bayramyelecc" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+      </a>
+      <a href="https://www.youtube.com/c/bayrop" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>💻 Languages & Tools</h3>
+      <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+      </a>
+      <a href="https://dart.dev" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="dart" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
